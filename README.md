@@ -234,7 +234,7 @@ Publish the website in the given URL.
 ~~~
 
 ## OUTPUT:
-![output](
+![output](https://github.com/ragulmani936/paintapplication/blob/main/1.png?raw=true)
 
 
 
